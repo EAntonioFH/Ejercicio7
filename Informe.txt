@@ -14,3 +14,6 @@ saber en qué rama te encuentras
 
 #git switch
 cambiar de rama
+
+#git merge
+Fusionas una rama en la rama actual
