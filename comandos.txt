@@ -1,0 +1,6 @@
+git clone - Hacer una copia del repositorio en línea
+git push - Envia todos los cambios hechos del repositorio local al repositorio en línea 
+git pull - Jala los cambios del repositorio en línea
+git branch - Crea una rama o musetra todas las ramas existentes
+git checkout - Cambia la rama en la que estas (también está git switch pero no esta esa función en las compus)
+git merge - Fusiona una rama en la rama en la que estas
