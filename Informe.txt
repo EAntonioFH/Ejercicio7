@@ -1,0 +1,16 @@
+Comandos
+
+#git clone
+copiar el repositorio
+
+#git push
+enviar cambios al repositorio remoto
+
+#git pull
+cargar cambios del repositorio remoto al local
+
+#git branch
+saber en qué rama te encuentras
+
+#git switch
+cambiar de rama
